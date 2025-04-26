@@ -1,7 +1,7 @@
 <template>
   <div :class="props.class + ' tw-flex tw-items-center tw-flex-col'">
     <img :src="src" alt="logo" />
-    <div class="tw-font-bold tw-text-md tw-text-center">GOPHERCRON</div>
+    <div class="tw-font-bold tw-text-md tw-text-center">作业调度系统</div>
   </div>
 </template>
 
